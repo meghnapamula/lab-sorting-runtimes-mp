@@ -242,8 +242,8 @@ Follow the instructions in the comments to provide a proper definition of `xs`,
 then rerun the command above to generate a markdown table of runtimes.
 Copy/paste the table into the README file below this line.
 
-|  x   | timsort  |merge sorted|quicksorted|
-|------|----------|------------|-----------|
+|len(xs) | timsort  |merge sorted|quicksorted|
+|--------|----------|------------|-----------|
 | 2**0 | 3.33e-06 | 1.91e-06 | 1.66e-06 |
 | 2**1 | 2.05e-06 | 7.31e-06 | 8.65e-06 |
 | 2**2 | 1.84e-06 | 1.16e-05 | 1.19e-05 |
